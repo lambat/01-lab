@@ -16,7 +16,7 @@ Dave and Fania *share teaching* on this module. Although they are each allocated
 
 ## Module calendar
 
-Module classes and lectures run from weeks 1-11, with the final workshop in week 11 commencing 11 December. The final project hand-in date is: 12pm Wednesday 00 December 2017 (TBC).
+Module classes and lectures run from weeks 1-11, with the final workshop in week 11 commencing 11 December. The final project hand-in date is: 12pm Wednesday 00 December 2017.
 
 All 2-hour workshops and lectures end 10 minutes early to allow for class changeover, so are actually 1hr 50mins.
 
@@ -114,9 +114,9 @@ The Resources section contains:
 
 | Assignment number | Title | Percentage | Deadline | Results |
 |:-|:-|:-|:-|:-|
-|0| **Engagement** |10%|-|07/01/18 (TBC) |
-| 1 | **Essay** | 25% | 12pm Wednesday 1/11/17 (TBC) | 29/11/17 (TBC)  |
-| 2 | **Practical project** | 65% | 12pm Wednesday 13/12/17 (TBC) | 17/01/18 (TBC) |
+|0| **Engagement** |10%|-|07/01/18 |
+| 1 | **Essay** | 25% | 12pm Wednesday 1/11/17 | 29/11/17  |
+| 2 | **Practical project** | 65% | 12pm Wednesday 13/12/17 | 17/01/18 |
 
 ### Assessment 0: (ongoing) active engagement
 
@@ -126,9 +126,9 @@ Your contribution and development from active participation in workshops and lec
 
 ### Assessment 1: critical essay
 
-25% of overall marks  
-Deadline: 12pm Wednesday 1/11/2017 (week 5) (TBC) 
-Submitted: on Turnitin
+- 25% of overall marks
+- Deadline: 12pm Wednesday 1/11/2017 (week 5)
+- Submitted: on Turnitin
 
 #### Deliverable:
 
@@ -167,9 +167,9 @@ For Turnitin, please use RTF, Word documents or PDFs ([see “What type of files
 
 ### Assessment 2: practical project
 
-65% of overall marks  
-Deadline: 12pm Wednesday 13/12/2017 (week 11) (TBC)   
-Submitted: printed GitHub URL to FOTAC
+- 65% of overall marks
+- Deadline: 12pm Wednesday 13/12/2017 (week 11)
+- Submitted: printed GitHub URL to FOTAC
 
 #### Deliverable:
 
