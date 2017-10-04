@@ -1,26 +1,26 @@
 <center>
 ![](http://ecoconsulting.co.uk/images/html-css-js.png)
 
-**CTEC3905 MODULE HANDBOOK**
+# CTEC3905 MODULE HANDBOOK
 </center>
 
 
 ## Staff contact details
+
 Dave Everitt: dave.everitt@dmu.ac.uk
 Fania Raczinski: fania.raczinski@dmu.ac.uk
 
-Dave and Fania share teaching on this module. Although they are each allocated to assigned classes, this may vary according to demand.
+Dave and Fania *share teaching* on this module. Although they are each allocated to assigned classes, this may vary according to demand.
 
 **Please note:** any essential contact outside workshop and lecture hours is strictly via email.
 
 ## Module calendar
+
 Module classes and lectures run from weeks 1-11, with the final workshop in week 11 commencing 11 December. The final project hand-in date is: 12pm Wednesday 00 December 2017 (TBC).
 
 All 2-hour workshops and lectures end 10 minutes early to allow for class changeover, so are actually 1hr 50mins.
 
 For specific class times and locations, please see your personal timetable.
-
-
 
 | Week | Date (Mon) | Lecture | Workshop |
 |:- |:- |:-|:-|
@@ -51,6 +51,7 @@ Possible lab/lecture subjects:
 - some more advanced JavaScript (prototypes, promises, closures)
 
 ## Workshops
+
 Location: see your personal timetable  
 One 2-hour workshop per week (see timetable above).
 
@@ -61,6 +62,7 @@ Practical workshops involve semi-taught lab exercises and hands-on coding, and a
 Work submitted without sufficient attendance may not meet the required standard, so could be rejected, and code is **always** examined for plagiarism.
 
 ## Lectures
+
 **Location:** Bede Island 0.05  
 **Time:** Thuesdays 16:00-18:00
 
@@ -71,6 +73,7 @@ Lectures complement the practical workshops and cover essential technical issues
 ## Module details
 
 ### Learning outcomes
+
 By the end of this module, through attendance and participation in workshops, and after successful completion of lab tasks and assignments, students will be able to:
 
 1. Contextualise and critique the aims and culture driving current web technologies, how these have evolved and what part they play in modern web development.
@@ -116,19 +119,23 @@ The Resources section contains:
 | 2 | **Practical project** | 65% | 12pm Wednesday 13/12/17 (TBC) | 17/01/18 (TBC) |
 
 ### Assessment 0: (ongoing) active engagement
+
 10% of overall marks
 
 Your contribution and development from active participation in workshops and lectures will be assessed throughout the duration of the module. You simply need to attend, engage with the learning materials and show good progress in your understanding, skills and main project.
 
 ### Assessment 1: critical essay
+
 25% of overall marks  
 Deadline: 12pm Wednesday 1/11/2017 (week 5) (TBC) 
 Submitted: on Turnitin
 
 #### Deliverable:
+
 A 2000-word written essay, surveying and analysing 3 websites—they can all be different, or cover a theme or particular topic. For instance, a comparison of one kind of site (e.g. portfolios, sports, gaming, media, commerce…); or sites that show how a technology is used across each (e.g. Javascript, HTML5 Canvas, CSS3 animations…).
 
 #### What to look out for
+
 - are there any technical issues or faults in the code (e.g. invalid HTML, Javascript errors in the console)?
 - how is the website content (pages, video, sound, gallery, forum, blog, chat, etc) delivered technically?
 - does the site appear to use data from any external APIs - if so, how?
@@ -159,11 +166,13 @@ A 2000-word written essay, surveying and analysing 3 websites—they can all be
 For Turnitin, please use RTF, Word documents or PDFs ([see “What type of files can be submitted in Turnitin?“](http://www.library.dmu.ac.uk/Support/Justask/index.php?page=175&faqcategory=14#f6)). To gain experience in other more future-friendly formats you could also generate a PDF of your essay from Markdown, Multimarkdown or LaTeX (if you do this, add a note to explain your choice). In all cases, make sure your external links and links to references all resolve correctly.
 
 ### Assessment 2: practical project
+
 65% of overall marks  
 Deadline: 12pm Wednesday 13/12/2017 (week 11) (TBC)   
 Submitted: printed GitHub URL to FOTAC
 
 #### Deliverable:
+
 1. the final **project code**
 2. a **README.md** file with:  
 3. any rough plans and sketches: text annotations and/or brief notes (400 words + screenshots) about your development process, issues solved, code comments.
@@ -171,11 +180,13 @@ Submitted: printed GitHub URL to FOTAC
 Please make sure you double check the GitHub URL before submitting. Also make sure your repository is **public** and your site is accessable via GitHub Pages.
 
 #### Can include:
+
 - initial design ideas, sketches or screenshots (e.g. a greyscale/plain wireframe prototype)
 - prototype screenshots (you can use something like [Invision](https://www.invisionapp.com/) for this or code basic rough pages in HTML/CSS/JS)
 - a navigation plan, IA diagrams or site diagram
 
 #### Should demonstrate:
+
 - the correct semantic use of HTML5 elements
 - CSS styes for layout of HTML5 elements
 - working responsive design code
@@ -185,6 +196,7 @@ Please make sure you double check the GitHub URL before submitting. Also make su
 - evidence of intelligent research and references (to any snippets of code or libraries, frameworks, online resources and articles, books, etc.)
 
 #### Assessment 2 Marking criteria
+
 - validity, tidiness and standards-compliance of the source code
 - correct and well-formed HTML5 code structure
 - creative use of CSS3 features
@@ -199,9 +211,11 @@ Please make sure you double check the GitHub URL before submitting. Also make su
 ## University policy
 
 ### Anonymous marking
+
 Because of the practical nature of this module, there will be no anonymous marking, as the origin of each students’ work is obvious to the tutors from workshop sessions.
 
 ### Late work
+
 This will be penalised according to university rules and regulations. These rules also apply to work submitted after a *14-day extension deadline* authorised by the Module Tutor/Leader.
 
 Coursework received after 2.00pm on the deadline date
@@ -214,14 +228,17 @@ Coursework submitted later than 7 days after the deadline
 : *with no prior notice* will receive a mark of **0%**.
 
 ### Extensions
+
 These may be granted for significant reasons (e.g. health issues, serious family problems, etc.) They **cannot** be granted for bad the management, pressure from other module deadlines, minor illness, etc.
 
 ### Deferrals, failure and reassessment
+
 In very exceptional circumstances, a deferral may be granted.
 
 If you are judged to have failed the course, contact your workshop tutor as soon as possible for advice on what practical work to undertake in order to resubmit for reassessment, and when studio facilities will be available, if required.
 
 ### Plagiarism (using work from other sources)
+
 Before you write anything, read the DMU library page [“What is plagiarism”](http://www.library.dmu.ac.uk/Support/Justask/index.php?page=175&faqcategory=14#f1). As for copying code, developers often examine source code from other sites and adapt features they like into their own work. However, pre–designed templates that entire designs, copying tutorials mindlessly, or taking code wholly or substantially from other sources is not acceptable for assessments, as you will learn very little. So always explain *if and how* you have adapted any third-party code or online tutorials and examples to demonstrate that you understand what you’re doing.
 
 The practical work submitted for this course must be your own, so be aware that tutors know how to check source code in detail. The essay will be submitted via Turnitin, which highlights copied text.
